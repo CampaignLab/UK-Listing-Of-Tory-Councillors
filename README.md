@@ -8,5 +8,5 @@ Permissions: For scraping candidates.democracyclub.org.uk, you may need explicit
 Required Libraries
 Install the necessary libraries with: <enter>$ pip install requests beautifulsoup4 PyPDF2
 
-To make the Applications code executable on UNIX/LINUX (including MacOS), [enter>]$ chmod u+x tory_councillors.py. 
+To make the Applications script code executable on UNIX/LINUX platforms (including MacOS), [enter>]$ chmod u+x tory_councillors.py. 
 The requisite Python installation and execution guide should be read, for Microsoft Windows platforms
