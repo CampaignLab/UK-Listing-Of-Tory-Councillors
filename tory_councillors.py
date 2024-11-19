@@ -3,13 +3,13 @@
 # CHALLENGE: Create a list of all Conservative Party Councillors in the UK, per constituency and store a created list in a JSON file.
 # CODE REVISION: Ejimofor Nwoye, Campaign Lab, Newspeak House, London, England, 17th November 2024
 
-system("clear") 
-
 import requests
 from bs4 import BeautifulSoup
 import PyPDF2
 import json
 import os
+
+os.system("clear")
 
 # Define a dictionary to store the results
 councillor_data = {}
